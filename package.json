@@ -1,15 +1,23 @@
 {
+ HEAD
   "name": "dmsfansite",
   "version": "1.0.0",
   "description": "Fan site for DMS321",
   "main": "index.js",
   "scripts": {
     "start": "node Server/index.js",
+
+  "name": "dms321",
+  "version": "1.0.0",
+  "description": "DMS321 Fan Site",
+  "main": "index.js",
+  "scripts": {
+78c2cd2eb4f9d1082c10ef66fa0609cb5f937f52
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scootieb/DMS321.git"
+
   },
   "keywords": [
     "fan",
@@ -19,6 +27,7 @@
     "beans"
   ],
   "author": "Scott Border",
+ HEAD
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/scootieb/DMS321/issues"
@@ -28,4 +37,7 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1"
   }
+
+  "license": "GPL-3.0"
+ 78c2cd2eb4f9d1082c10ef66fa0609cb5f937f52
 }
