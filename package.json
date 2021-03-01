@@ -1,0 +1,31 @@
+{
+  "name": "dmsfansite",
+  "version": "1.0.0",
+  "description": "Fan site for DMS321",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scootieb/DMS321.git"
+  },
+  "keywords": [
+    "fan",
+    "site",
+    "dms321",
+    "cool",
+    "beans"
+  ],
+  "author": "Scott Border",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scootieb/DMS321/issues"
+  },
+  "homepage": "https://github.com/scootieb/DMS321#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
